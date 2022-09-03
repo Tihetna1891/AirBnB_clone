@@ -30,4 +30,4 @@ All the code is tested with the unittest module. The test for the classes are in
 
 ## Author
 
-- Tihetna Mesfin - [Abinet](https://github.com/abela12)
+- Tihetna Mesfin - (https://github.com/Tihetna1891)
