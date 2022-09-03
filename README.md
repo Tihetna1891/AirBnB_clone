@@ -28,7 +28,6 @@ This first step consists of a custom command-line interface for data management,
 
 All the code is tested with the unittest module. The test for the classes are inthe`test_models folder`.
 
-## Authors
+## Author
 
-- ABel Berhanu - [Abinet](https://github.com/abela12)
-- Robel Amde - [Susinios](https://github.com/robel-ak)
+- Tihetna Mesfin - [Abinet](https://github.com/abela12)
